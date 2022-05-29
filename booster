@@ -1,0 +1,216 @@
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "Acrobat",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "ConsistentFinisher",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "ContactFinisher",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "DeepHooks",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "GiantSlayer",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "LobCityFinisher",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "RelentlessFinisher",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "TearDropper",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "CatchAndShoot",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "DeepFades",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "DifficultShots",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "DeepFades",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "TirelessShooter",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "RangeExtender",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "QuickDraw",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "AnkleBreaker",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "BailOut",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "Dimer",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "HandlesForDays",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "LobCityPasser",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "Unpluckable",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "BrickWall",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "Clamps",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "Intimidator",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "PickPocket",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "ReboundChaser",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Badges Change Request",
+    [2] = "TirelessDefender",
+    [3] = badgelevel
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
