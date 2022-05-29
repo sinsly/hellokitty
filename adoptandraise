@@ -1,0 +1,176 @@
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "PostControl",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "SpeedWithBall",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "StandingDunk",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Vertical",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "PerimeterDefense",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "InteriorDefense",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Block",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "DrivingDunk",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "DefensiveRebound",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Steal",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "PassAccuracy",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Stamina",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "DrivingLayup",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Strength",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Acceleration",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "OffensiveRebound",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "MidRangeShot",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "Speed",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "CloseShot",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "BallHandle",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "ThreePointShot",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
+
+local args = {
+    [1] = "Potential Attributes Change Request",
+    [2] = "FreeThrow",
+    [3] = attributecap
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents:FindFirstChild("CC.Remote"):FireServer(unpack(args))
