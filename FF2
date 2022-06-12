@@ -1,0 +1,5 @@
+-- this shit is patched atm join the discord
+
+
+setclipboard("discord.gg/sinsploit")
+game.Players.LocalPlayer:Kick("currently patched: discord invite copied")
