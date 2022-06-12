@@ -2,4 +2,4 @@
 
 
 setclipboard("discord.gg/sinsploit")
-game.Players.LocalPlayer:Kick("currently patched: discord invite copied")
+game.Players.LocalPlayer:Kick("         currently patched: discord invite copied")
