@@ -1,3 +1,33 @@
+--[[ 
+
+
+			example code:
+
+ui = loadstring(game:HttpGet"https://raw.githubusercontent.com/sinsly/hellokitty/main/ui")()
+
+win = ui:Window("RB World 4", "", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
+tab = win:Tab("Tab 1", "http://www.roblox.com/asset/?id=6023426915")
+tab:Label("This is just a label.")
+tab:Line()
+tab:Toggle("Toggle", "This is a toggle", function(t)
+print(t)
+end)
+tab:Button("Button", "This is a button", function()
+end)
+tab:Slider("Slider", "This is a slider", 0, 100,16,function(t)
+print(t)
+end)
+tab:Bind("Bind", Enum.KeyCode.Q, function()
+print("This is a bindable button")
+end)
+
+
+tab2 = win:Tab("Tab 2", "http://www.roblox.com/asset/?id=6023426915")
+tab2:Button("Button", "This is a button", function()
+end)
+
+--]]
+
 local ui = {RainbowColorValue = 0, HueSelectionPosition = 0}
 local PresetColor = Color3.fromRGB(66, 134, 255)
 local UserInputService = game:GetService("UserInputService")
